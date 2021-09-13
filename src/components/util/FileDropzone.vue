@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import IconPhotograph from './icons/IconPhotograph';
+import IconPhotograph from '@/components/icons/IconPhotograph';
 
 export default {
   name: 'FileDropzone',
